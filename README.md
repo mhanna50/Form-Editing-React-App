@@ -1,6 +1,4 @@
-Got it! Here's a detailed README for the React app you created, which includes instructions on how to use it, what it is, and the process of development.
 
----
 
 # React Table & Form App
 
